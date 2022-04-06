@@ -19,6 +19,6 @@ wholesalers. The wholesaler part was done by me as part of a group assignment wh
 
 ## Libraries Used
 
-### 1.JDBC
-### 2.rs2xml
-### 3.JFreeChart
+> ### 1.JDBC
+> ### 2.rs2xml
+> ### 3.JFreeChart
