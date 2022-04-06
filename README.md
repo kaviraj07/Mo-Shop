@@ -1,7 +1,7 @@
 # Mo-Shop
 
 Mo-Shop is an application where supermarkets can buy their products from
-wholesalers. The wholesaler part was done by me as part of a group assignment where other team members worked on the supermarket side.
+wholesalers. The wholesaler part was done by me as part of a group assignment where other team members worked on the supermarket side. This deliverable was for the module Software Modelling and Design from Year 2 of Applied Computing.
 
 ## Features
 
